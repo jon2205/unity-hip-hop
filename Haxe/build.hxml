@@ -1,0 +1,8 @@
+-main MonoTools
+-cs ../Output/GameDLL
+-D no-root
+-D dll
+--macro include('game')
+-net-lib ../DLL/UnityEngine.4.5.4.f1.dll
+--connect 127.0.0.1:6000
+-cmd cp -f ../Output/GameDLL/bin/MonoTools.dll ../Assets/Bin/Game.dll

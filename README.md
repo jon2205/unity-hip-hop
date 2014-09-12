@@ -12,5 +12,7 @@ Go Go Go!
 Установка
 =========
 
-http://haxe.org/download/ (выберите подходящий ___Installer___ для вашей платформы)
-http://unity3d.com/unity/download (активируйте с лицензией ___FREE___)
+http://haxe.org/download/ (выберите подходящий ___Installer___ для вашей платформы)<br>
+http://unity3d.com/unity/download (активируйте с лицензией ___FREE___)<br>
+Установите подходящий вам гитхаб клиент:
+https://windows.github.com/ или https://mac.github.com/
